@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Sarda</h1>
 <h3 align="center">A passionate Competitive Programmer and Frontend developer</h3>
-<img align="right" alt="Coding" width ="400" src ="https://www.pinterest.com/pin/lottieanimationchainstarters--59813501292017265/">
+<img align="right" alt="Coding" width ="400" src ="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84%2F68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&tbnid=6_7BCMkOF0X1vM&vet=12ahUKEwim38zo0Pz-AhVd1jgGHT7RAw0QMygSegUIARDGAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwim38zo0Pz-AhVd1jgGHT7RAw0QMygSegUIARDGAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsarda21&label=Profile%20views&color=0e75b6&style=flat" alt="yashsarda21" /> </p>
 
